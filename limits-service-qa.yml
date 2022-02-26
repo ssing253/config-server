@@ -1,0 +1,4 @@
+limit-service:
+  minimum: 20
+  maximum: 200
+  message: Hi-QA
